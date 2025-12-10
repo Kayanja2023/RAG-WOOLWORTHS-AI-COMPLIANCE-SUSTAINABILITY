@@ -225,34 +225,12 @@ RAG-WOOLWORTHS-AI-COMPLIANCE-SUSTAINABILITY/
 
 ---
 
-## Troubleshooting
-
-- Pinecone connection errors: check API key and index name
-- Llama 3 model errors: verify model path or API endpoint
-- Document not loading: check file format and size
-- Slow queries: optimize chunk size, check Pinecone status
-
----
-
 ## Contributing
 
 - Fork and create feature branches
 - Follow PEP 8 and add docstrings
 - Write unit tests for new features
 - Submit pull requests with clear descriptions
-
----
-
-## License
-
-Proprietary software for Woolworths South Africa. Internal use only. Third-party components subject to their respective licenses.
-
----
-
-## Support and Contact
-
-- IT Support: it-support@woolworths.co.za
-- Sustainability: sustainability@woolworths.co.za
 
 ---
 
@@ -263,9 +241,3 @@ Proprietary software for Woolworths South Africa. Internal use only. Third-party
 - HuggingFace for Sentence Transformers
 - LangChain for RAG framework
 - Streamlit for UI
-
----
-
-**Version**: 1.0.0  
-**Last Updated**: December 2025  
-**Maintained By**: Woolworths IT Development Team
